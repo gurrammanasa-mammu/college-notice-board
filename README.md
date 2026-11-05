@@ -3,8 +3,8 @@
 A new Flutter project.
 ## 👥 Team Members
 
-| Name | Role |Roll no
-| --- | --- |
+| Name | Role |Roll no |
+| --- | --- | --- |
 | Gurram sai manasa | Lead Developer | 248x1a0587 |
 | Gajula rithwik | UI Designer | 248x1a0576 |
 |  Jammisetty Devi prasanna | Backend Developer | 248x1a0591 |
